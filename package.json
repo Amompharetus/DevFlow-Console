@@ -1,0 +1,29 @@
+{
+  "name": "devflow-console",
+  "version": "1.0.0",
+  "description": "An interactive multi-repository Git status checker, build cache purger, and environment sync utility.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "devflow": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "git",
+    "automation",
+    "cleaner",
+    "cache",
+    "dotenv",
+    "cli"
+  ],
+  "author": "Dimitrios (Amompharetus) Koliopoulos",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "ora": "^8.0.1",
+    "prompts": "^2.4.2",
+    "simple-git": "^3.25.0"
+  }
+}
