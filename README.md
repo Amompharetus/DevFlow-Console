@@ -1,4 +1,4 @@
-# DevFlow Console 🚀
+# DevFlow Console
 
 **DevFlow Console** is a lightweight, zero-config interactive CLI automation panel designed for developers managing multiple local projects or microservices in a unified workspace. 
 
